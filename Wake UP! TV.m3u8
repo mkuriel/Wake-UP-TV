@@ -1,10 +1,46 @@
-
 #EXTM3U
-#PLAYLIST:Mi Lista YouTube
-#EXT-X-VERSION:3
-#EXTINF:-1 group-title="Música" tvg-logo="https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg" tvg-id="dQw4w9WgXcQ",Rick Astley - Never Gonna Give You Up (Official Music Video)
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
-#EXTINF:-1 group-title="Directos / Streams" tvg-logo="https://img.youtube.com/vi/jfKfPfyJRdk/hqdefault.jpg" tvg-id="jfKfPfyJRdk",Lofi hip hop radio - beats to relax/study to
-https://www.youtube.com/watch?v=jfKfPfyJRdk
-#EXTINF:-1 group-title="Directos / Streams" tvg-logo="https://img.youtube.com/vi/21X5lGlDOfg/hqdefault.jpg" tvg-id="21X5lGlDOfg",NASA Live: Earth From Space - ISS Live Stream
-https://www.youtube.com/watch?v=21X5lGlDOfg
+#EXTENC:UTF-8
+#PLAYLIST:Electronic Music Festivals - Official Aftermovies
+
+# --- FESTIVALES GENERALES / MAINSTREAM ---
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZSzwA2y-nSk/hqdefault.jpg",Tomorrowland 2024 - Official Aftermovie
+https://www.youtube.com/watch?v=ZSzwA2y-nSk
+
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/t-3ErVKHgl4/hqdefault.jpg",Tomorrowland Belgium 2023 - Official Aftermovie
+https://www.youtube.com/watch?v=t-3ErVKHgl4
+
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-aRhzJWS6Ps/hqdefault.jpg",Ultra Music Festival Miami 2024 - Official Aftermovie
+https://www.youtube.com/watch?v=-aRhzJWS6Ps
+
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dH7MqEpZSV4/hqdefault.jpg",EDC Las Vegas 2023 - Official Aftermovie
+https://www.youtube.com/watch?v=dH7MqEpZSV4
+
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mcb8cqIdUBk/hqdefault.jpg",Creamfields 2024 - Official Aftermovie
+https://www.youtube.com/watch?v=mcb8cqIdUBk
+
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fMaeKqBJ7bM/hqdefault.jpg",Ultra Perú 2024 - Official Aftermovie
+https://www.youtube.com/watch?v=fMaeKqBJ7bM
+
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UpPLVlUVAxY/hqdefault.jpg",Dim Mak Miami 2022 - Official Aftermovie
+https://www.youtube.com/watch?v=UpPLVlUVAxY
+
+# --- TECHNO / HARD TECHNO ---
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ERz6fHBnqbE/hqdefault.jpg",Techno House Festival - Official Aftermovie
+https://www.youtube.com/watch?v=ERz6fHBnqbE
+
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CQRv1xhHFY4/hqdefault.jpg",Shutdown Festival - Official Aftermovie
+https://www.youtube.com/watch?v=CQRv1xhHFY4
+
+# --- HARDSTYLE / HARDER STYLES ---
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kDlTSynqMTs/hqdefault.jpg",Defqon.1 2024 (Power of the Tribe) - Official Aftermovie
+https://www.youtube.com/watch?v=kDlTSynqMTs
+
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NOVDOOs-B28/hqdefault.jpg",Into The Madness - Official Aftermovie
+https://www.youtube.com/watch?v=NOVDOOs-B28
+
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/O98AIjNkfe0/hqdefault.jpg",Hardstyle DNA Outdoor - Official Aftermovie
+https://www.youtube.com/watch?v=O98AIjNkfe0
+
+# --- TRANCE / PSYTRANCE ---
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qGSVrevgCDQ/hqdefault.jpg",Hadra Trance Festival - Official Aftermovie
+https://www.youtube.com/watch?v=qGSVrevgCDQ
