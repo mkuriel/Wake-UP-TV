@@ -1,1 +1,10 @@
 
+#EXTM3U
+#PLAYLIST:Mi Lista YouTube
+#EXT-X-VERSION:3
+#EXTINF:-1 group-title="Música" tvg-logo="https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg" tvg-id="dQw4w9WgXcQ",Rick Astley - Never Gonna Give You Up (Official Music Video)
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+#EXTINF:-1 group-title="Directos / Streams" tvg-logo="https://img.youtube.com/vi/jfKfPfyJRdk/hqdefault.jpg" tvg-id="jfKfPfyJRdk",Lofi hip hop radio - beats to relax/study to
+https://www.youtube.com/watch?v=jfKfPfyJRdk
+#EXTINF:-1 group-title="Directos / Streams" tvg-logo="https://img.youtube.com/vi/21X5lGlDOfg/hqdefault.jpg" tvg-id="21X5lGlDOfg",NASA Live: Earth From Space - ISS Live Stream
+https://www.youtube.com/watch?v=21X5lGlDOfg
