@@ -1,46 +1,49 @@
 #EXTM3U
 #EXTENC:UTF-8
-#PLAYLIST:Electronic Music Festivals - Official Aftermovies
+#PLAYLIST:Wake UP! TV - Electronic Music Festival Aftermovies
+#WAKEUP-FORMAT:youtube-catalog-v1
+# La aplicación obtiene duración, canal y disponibilidad mediante YouTube Data API.
+# Para HLS directo, la URL situada después de EXTINF debe ser una URL .m3u8 legítima del alojamiento del vídeo.
 
 # --- FESTIVALES GENERALES / MAINSTREAM ---
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZSzwA2y-nSk/hqdefault.jpg",Tomorrowland 2024 - Official Aftermovie
+#EXTINF:870 tvg-id="ZSzwA2y-nSk" tvg-name="Tomorrowland 2024 | aftermovie" tvg-logo="https://img.youtube.com/vi/ZSzwA2y-nSk/hqdefault.jpg" group-title="MAINSTREAM" channel-name="Josemi Amaro",Tomorrowland 2024 | aftermovie
 https://www.youtube.com/watch?v=ZSzwA2y-nSk
 
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/t-3ErVKHgl4/hqdefault.jpg",Tomorrowland Belgium 2023 - Official Aftermovie
+#EXTINF:1380 tvg-id="t-3ErVKHgl4" tvg-name="Tomorrowland Belgium 2023 | Official Aftermovie" tvg-logo="https://img.youtube.com/vi/t-3ErVKHgl4/hqdefault.jpg" group-title="MAINSTREAM" channel-name="Tomorrowland",Tomorrowland Belgium 2023 | Official Aftermovie
 https://www.youtube.com/watch?v=t-3ErVKHgl4
 
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-aRhzJWS6Ps/hqdefault.jpg",Ultra Music Festival Miami 2024 - Official Aftermovie
+#EXTINF:1060 tvg-id="-aRhzJWS6Ps" tvg-name="ULTRA MIAMI 2024 - Music is the answer (Official Aftermovie)" tvg-logo="https://img.youtube.com/vi/-aRhzJWS6Ps/hqdefault.jpg" group-title="MAINSTREAM" channel-name="UMF TV",ULTRA MIAMI 2024 - Music is the answer (Official Aftermovie)
 https://www.youtube.com/watch?v=-aRhzJWS6Ps
 
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dH7MqEpZSV4/hqdefault.jpg",EDC Las Vegas 2023 - Official Aftermovie
+#EXTINF:132 tvg-id="dH7MqEpZSV4" tvg-name="EDC Las Vegas 2023 - Aftermovie" tvg-logo="https://img.youtube.com/vi/dH7MqEpZSV4/hqdefault.jpg" group-title="MAINSTREAM" channel-name="Insomniac",EDC Las Vegas 2023 - Aftermovie
 https://www.youtube.com/watch?v=dH7MqEpZSV4
 
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mcb8cqIdUBk/hqdefault.jpg",Creamfields 2024 - Official Aftermovie
+#EXTINF:165 tvg-id="mcb8cqIdUBk" tvg-name="Creamfields 2024 | Aftermovie" tvg-logo="https://img.youtube.com/vi/mcb8cqIdUBk/hqdefault.jpg" group-title="MAINSTREAM" channel-name="Jay Stone",Creamfields 2024 | Aftermovie
 https://www.youtube.com/watch?v=mcb8cqIdUBk
 
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fMaeKqBJ7bM/hqdefault.jpg",Ultra Perú 2024 - Official Aftermovie
+#EXTINF:305 tvg-id="fMaeKqBJ7bM" tvg-name="ULTRA PERU 2024 (Official Aftermovie)" tvg-logo="https://img.youtube.com/vi/fMaeKqBJ7bM/hqdefault.jpg" group-title="MAINSTREAM" channel-name="UMF TV",ULTRA PERU 2024 (Official Aftermovie)
 https://www.youtube.com/watch?v=fMaeKqBJ7bM
 
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UpPLVlUVAxY/hqdefault.jpg",Dim Mak Miami 2022 - Official Aftermovie
+#EXTINF:151 tvg-id="UpPLVlUVAxY" tvg-name="Dim Mak Miami 2022 (Official After Movie)" tvg-logo="https://img.youtube.com/vi/UpPLVlUVAxY/hqdefault.jpg" group-title="MAINSTREAM" channel-name="DIM MAK",Dim Mak Miami 2022 (Official After Movie)
 https://www.youtube.com/watch?v=UpPLVlUVAxY
 
 # --- TECHNO / HARD TECHNO ---
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ERz6fHBnqbE/hqdefault.jpg",Techno House Festival - Official Aftermovie
+#EXTINF:61 tvg-id="ERz6fHBnqbE" tvg-name="Techno House Festival 2023 Aftermovie Oficial" tvg-logo="https://img.youtube.com/vi/ERz6fHBnqbE/hqdefault.jpg" group-title="TECHNO" channel-name="2M GROUP",Techno House Festival 2023 Aftermovie Oficial
 https://www.youtube.com/watch?v=ERz6fHBnqbE
 
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CQRv1xhHFY4/hqdefault.jpg",Shutdown Festival - Official Aftermovie
+#EXTINF:252 tvg-id="CQRv1xhHFY4" tvg-name="Official Aftermovie | Shutdown Festival 2025" tvg-logo="https://img.youtube.com/vi/CQRv1xhHFY4/hqdefault.jpg" group-title="TECHNO" channel-name="Shutdown Festival",Official Aftermovie | Shutdown Festival 2025
 https://www.youtube.com/watch?v=CQRv1xhHFY4
 
 # --- HARDSTYLE / HARDER STYLES ---
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kDlTSynqMTs/hqdefault.jpg",Defqon.1 2024 (Power of the Tribe) - Official Aftermovie
+#EXTINF:754 tvg-id="kDlTSynqMTs" tvg-name="Aftermovie | Defqon.1 2024" tvg-logo="https://img.youtube.com/vi/kDlTSynqMTs/hqdefault.jpg" group-title="HARDSTYLE" channel-name="Q-dance",Aftermovie | Defqon.1 2024
 https://www.youtube.com/watch?v=kDlTSynqMTs
 
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NOVDOOs-B28/hqdefault.jpg",Into The Madness - Official Aftermovie
+#EXTINF:125 tvg-id="NOVDOOs-B28" tvg-name="Into The Madness 2025 | Official Aftermovie" tvg-logo="https://img.youtube.com/vi/NOVDOOs-B28/hqdefault.jpg" group-title="HARDSTYLE" channel-name="Musical Madness",Into The Madness 2025 | Official Aftermovie
 https://www.youtube.com/watch?v=NOVDOOs-B28
 
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/O98AIjNkfe0/hqdefault.jpg",Hardstyle DNA Outdoor - Official Aftermovie
+#EXTINF:184 tvg-id="O98AIjNkfe0" tvg-name="Hardstyle DNA Outdoor Official Aftermovie 2025" tvg-logo="https://img.youtube.com/vi/O98AIjNkfe0/hqdefault.jpg" group-title="HARDSTYLE" channel-name="HardstyleDNA",Hardstyle DNA Outdoor Official Aftermovie 2025
 https://www.youtube.com/watch?v=O98AIjNkfe0
 
 # --- TRANCE / PSYTRANCE ---
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qGSVrevgCDQ/hqdefault.jpg",Hadra Trance Festival - Official Aftermovie
+#EXTINF:429 tvg-id="qGSVrevgCDQ" tvg-name="HADRA TRANCE FESTIVAL 2024 | OFFICIAL AFTERMOVIE" tvg-logo="https://img.youtube.com/vi/qGSVrevgCDQ/hqdefault.jpg" group-title="TRANCE" channel-name="HADRA",HADRA TRANCE FESTIVAL 2024 | OFFICIAL AFTERMOVIE
 https://www.youtube.com/watch?v=qGSVrevgCDQ
