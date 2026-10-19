@@ -6,8 +6,6 @@
 # Para HLS directo, la URL situada después de EXTINF debe ser una URL .m3u8 legítima del alojamiento del vídeo.
 
 # --- FESTIVALES GENERALES / MAINSTREAM ---
-#EXTINF:870 tvg-id="ZSzwA2y-nSk" tvg-name="Tomorrowland 2024 | aftermovie" tvg-logo="https://img.youtube.com/vi/ZSzwA2y-nSk/hqdefault.jpg" group-title="MAINSTREAM" channel-name="Josemi Amaro",Tomorrowland 2024 | aftermovie
-https://www.youtube.com/watch?v=ZSzwA2y-nSk
 
 #EXTINF:1380 tvg-id="t-3ErVKHgl4" tvg-name="Tomorrowland Belgium 2023 | Official Aftermovie" tvg-logo="https://img.youtube.com/vi/t-3ErVKHgl4/hqdefault.jpg" group-title="MAINSTREAM" channel-name="Tomorrowland",Tomorrowland Belgium 2023 | Official Aftermovie
 https://www.youtube.com/watch?v=t-3ErVKHgl4
@@ -215,7 +213,6 @@ https://www.youtube.com/watch?v=Xz1sMGVNPLI
 #EXTINF:3331 tvg-id="fclT4et6oAg" tvg-name="FAKIGN (LIVE) | HÖR - December 22 / 2025" tvg-logo="https://img.youtube.com/vi/fclT4et6oAg/hqdefault.jpg" group-title="LIVE SET" channel-name="HÖR BERLIN",FAKIGN (LIVE) | HÖR - December 22 / 2025
 https://www.youtube.com/watch?v=fclT4et6oAg
 
-
 # --- HÖR TRANCE & HARD DANCE ---
 #EXTINF:3177 tvg-id="vBQFcUTm8dA" tvg-name="FUNK TRIBU | HÖR - Feb 1 / 2023" tvg-logo="https://img.youtube.com/vi/vBQFcUTm8dA/hqdefault.jpg" group-title="LIVE SET" channel-name="HÖR BERLIN",FUNK TRIBU | HÖR - Feb 1 / 2023
 https://www.youtube.com/watch?v=vBQFcUTm8dA
@@ -276,7 +273,6 @@ https://www.youtube.com/watch?v=vlOJ0OsHymk
 
 #EXTINF:3271 tvg-id="Vtxcc17UE0E" tvg-name="Dolu | HÖR - March 19 / 2025" tvg-logo="https://img.youtube.com/vi/Vtxcc17UE0E/hqdefault.jpg" group-title="LIVE SET" channel-name="HÖR BERLIN",Dolu | HÖR - March 19 / 2025
 https://www.youtube.com/watch?v=Vtxcc17UE0E
-
 
 # --- CERCLE POPULAR ---
 #EXTINF:8028 tvg-id="vqz8c4ZP3Wg" tvg-name="Boris Brejcha at Grand Palais in Paris, France for Cercle" tvg-logo="https://img.youtube.com/vi/vqz8c4ZP3Wg/hqdefault.jpg" group-title="LIVE SET" channel-name="Cercle",Boris Brejcha at Grand Palais in Paris, France for Cercle
